@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'WBFE Blog',
   tagline: '',
-  url: 'https://wbfrontendteam.github.io/wbfe-blog/',
+  url: 'https://wbfrontendteam.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
