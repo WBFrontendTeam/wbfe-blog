@@ -28,8 +28,6 @@ jobs:
       - name: Release to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          USE_SSH: true
-          GIT_USER: git
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           user_name: ${{ secrets.NAME }}
