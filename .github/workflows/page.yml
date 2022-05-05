@@ -26,6 +26,7 @@ jobs:
           USE_SSH: true
           GIT_USER: git
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
           user_name: ${{ secrets.NAME }}
           user_email: ${{ secrets.EMAIL }}
