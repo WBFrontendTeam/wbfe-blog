@@ -9,7 +9,7 @@ const config = {
   title: 'WBFE Blog',
   tagline: '',
   url: 'https://wbfrontendteam.github.io/',
-  baseUrl: '/',
+  baseUrl: '/wbfe-blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
