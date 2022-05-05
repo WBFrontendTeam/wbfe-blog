@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'WBFE Blog',
   tagline: '',
-  url: 'wbfe',
+  url: 'https://wbfrontendteam.github.io/wbfe-blog/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,15 +16,15 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'WBFE', // Usually your GitHub org/user name.
+  organizationName: 'WBFrontendTeam', // Usually your GitHub org/user name.
   projectName: 'wbfe-blog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'ko',
-    locales: ['ko']
+    defaultLocale: 'en',
+    locales: ['en']
   },
 
   presets: [
