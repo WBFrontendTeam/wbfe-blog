@@ -1,6 +1,6 @@
 ### WBFE Blog
 
-방문하려면 [이곳]()을 클릭하세요.
+방문하려면 [이곳](https://wbfrontendteam.github.io/wbfe-blog/)을 클릭하세요.
 
 ### 설치
 
