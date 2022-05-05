@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbfe_blog=self.webpackChunkwbfe_blog||[]).push([[8202],{1959:function(s){s.exports=JSON.parse('{"label":"docusaurus","permalink":"/wbfe-blog/blog/tags/docusaurus","allTagsPath":"/wbfe-blog/blog/tags","count":4}')}}]);
