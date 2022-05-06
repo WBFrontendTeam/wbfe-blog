@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=02ce89&fontColor=fff&height=300&section=header&text=WB Fronted Blog&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wirebarley%20Website%20Renewal&descAlignY=61&descAlign=81)
+
 ### WBFE Blog
 
 방문하려면 [이곳](https://wbfrontendteam.github.io/wbfe-blog/)을 클릭하세요.
@@ -6,6 +8,12 @@
 
 ```
 yarn
+```
+
+## docusaurus 설치
+
+```
+yarn add docusaurus -g
 ```
 
 ### 로컬에서 보기
