@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbfe_blog=self.webpackChunkwbfe_blog||[]).push([[4645],{4253:function(e){e.exports=JSON.parse('{"label":"frontend","permalink":"/wbfe-blog/blog/tags/frontend","allTagsPath":"/wbfe-blog/blog/tags","count":1}')}}]);
