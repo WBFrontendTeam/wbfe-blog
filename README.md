@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=02ce89&fontColor=fff&height=300&section=header&text=WB Fronted Blog&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Wirebarley%20Website%20Renewal&descAlignY=61&descAlign=81)
+![header](https://capsule-render.vercel.app/api?type=waving&color=02ce89&fontColor=fff&height=300&section=header&text=Frontend%20Tech-Blog&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Wirebarley&descAlignY=61&descAlign=86)
 
 ### WBFE Blog
 
