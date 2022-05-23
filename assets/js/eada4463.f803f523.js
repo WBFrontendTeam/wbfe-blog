@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwbfe_blog=self.webpackChunkwbfe_blog||[]).push([[4580],{2034:function(e){e.exports=JSON.parse('{"label":"flex","permalink":"/wbfe-blog/blog/tags/flex","allTagsPath":"/wbfe-blog/blog/tags","count":1}')}}]);
