@@ -24,13 +24,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[와이어 바알리 프론트엔드팀을 소개합니다.]]></title>
-        <id>/2022/05/06/introduce</id>
-        <link href="https://wbfrontendteam.github.io/wbfe-blog/blog/2022/05/06/introduce"/>
+        <id>introduce</id>
+        <link href="https://wbfrontendteam.github.io/wbfe-blog/blog/introduce"/>
         <updated>2022-05-06T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1. Roy]]></summary>
         <content type="html"><![CDATA[<ol><li>Roy</li></ol><ul><li><code>비밀번호 뭐였지?</code>의 개발자</li><li>Apple store 리뷰 3.7천개 등록</li></ul><ol start="2"><li>Stefan</li></ol><ul><li>다재다능 모르는게 없는 개발자</li><li>Git에 대해 모르는게 없음</li></ul><ol start="3"><li>Gray</li></ol><ul><li>접니다 ㅎㅎ</li></ul>]]></content>
         <author>
-            <name>Gray</name>
+            <name>Gray Kwon</name>
             <uri>https://github.com/zerochae</uri>
         </author>
         <category label="member" term="member"/>
