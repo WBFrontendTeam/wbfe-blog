@@ -1,10 +1,9 @@
 ---
 slug: css-flex-grid
 title: CSS Flex & Grid
-authors: [StefanYou]
+authors: [stefan]
 tags: [css, flex, grid]
 ---
-
 
 # Flex & Grid
 
@@ -80,4 +79,4 @@ tags: [css, flex, grid]
 
 ### Grid
 
-... 작성중 ... 
+... 작성중 ...
