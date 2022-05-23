@@ -11,7 +11,7 @@ const FeatureList = [
   {
     title: '구글링을 통해 얻은 정보',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: <>라이브러리의 공식 문서, 스택오버플로우, 기술 블로그 등을 통해 얻은 정보를 기록합니다.</>
+    description: <>라이브러리의 공식 문서, 스택오버플로우,<br/> 기술 블로그 등을 통해 얻은 정보를 기록합니다.</>
   },
   {
     title: '개인적으로 공부한 내용',
